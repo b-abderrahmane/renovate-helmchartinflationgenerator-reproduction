@@ -1,0 +1,1 @@
+# renovate-helmchartinflationgenerator-reproduction
